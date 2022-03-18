@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diligent-tech/static/css/main.9584f829.css",
+    "main.js": "/diligent-tech/static/js/main.32c43141.js",
+    "index.html": "/diligent-tech/index.html",
+    "main.9584f829.css.map": "/diligent-tech/static/css/main.9584f829.css.map",
+    "main.32c43141.js.map": "/diligent-tech/static/js/main.32c43141.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9584f829.css",
+    "static/js/main.32c43141.js"
+  ]
+}
